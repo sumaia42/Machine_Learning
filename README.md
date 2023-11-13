@@ -1,2 +1,0 @@
-# Machine_Learning
-Algorithms
